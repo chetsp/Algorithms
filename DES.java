@@ -1,5 +1,6 @@
- PROGRAM:
-import java.math.BigInteger; import java.util.Scanner; public class DES1 {
+import java.math.BigInteger; 
+import java.util.Scanner; 
+public class DES1 {
 static Scanner read = new Scanner(System.in);
 //For Initial Permutation
 int init[] = {
